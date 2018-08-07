@@ -1,0 +1,57 @@
+
+
+/* This is a comment. */
+
+/* CSS Syntax: */
+
+
+/* Type Selector */
+
+p { /* selects all <p> */
+
+	font-size: 16px;     /* px, 100%, em */
+	line-height: 2.5em;
+
+	} 
+
+
+figcaption { /* selects all <figcaption> */
+
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 1.5em;
+	font-family: georgia, serif;
+	color: rgb(126,195,13);
+	(251, 137, 113, 1); 
+	text-align: right;
+
+	 }
+
+.milk-text {
+	font-family: comic, serif;
+	color: lime;
+	text-shadow: -3
+}
+
+/* ID selector (# logo) can only be used once per page. */
+
+
+#logo {
+	background: orange;
+	text-align: center;
+}
+
+#nav-bar {
+	background: aqua;
+
+}
+
+#logo a {
+	text-decoration: none;
+
+}
+
+#logo a {
+	text-align: right;
+
+}
